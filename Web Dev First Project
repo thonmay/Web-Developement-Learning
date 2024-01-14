@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <!-- Header -->
+    <header>
+        
+        <!-- Heading -->
+        <h1>Love Babbar</h1>
+
+        <!-- Contact Info -->
+        <div class="contactInfo">
+            <p >Contact: <a href="www.lovebabbar3@gmail.com">www.lovebabbar3@gmail.com</a> </p> 
+            <p>LinkedIn: <a href="www.linkedin.com/LoveBabbar3">www.linkedin.com/LoveBabbar3</a></p>
+            <p>GitHub: <a href="www.github.com/loveBabbar3">www.github.com/loveBabbar3</a></p>
+        </div>
+        
+
+    </header>
+    
+    <!-- Main Body -->
+    <main>
+
+        <!-- About Section -->
+        <section>
+
+            <table>
+                <tr>
+                    <td>
+                        <img src="unnamed.jpg" alt="Love Babbar" height="200px" width="250px">
+                    </td>
+                    <td>
+                        <p>
+                            I'm a skilled Software Engineer with a keen interest in problem-solving and efficiency. I aspire to be a team leader 
+                            so that I can demonstrate my leadership skills as well. I am looking for a job that will provide freedom and flexibility.
+                        </p>
+                    </td>
+                </tr>
+            </table>
+
+        </section>
+
+        <!-- Education -->
+        <section>
+            <!-- Title -->
+            <h2>
+                Education
+            </h2>
+            
+            <ul>
+                <li>Bachelor's in Computer Science from Eotvos Lorand University</li>
+                <li>High School form Dhaka College</li>
+            </ul>
+        </section>
+
+        <!-- Work Experience -->
+        <section>
+
+            <!-- Heading -->
+            <h2>Work Experience</h2>
+            
+            <!-- First Work Experience -->
+            <section>
+                <!-- Intro -->
+                <h3>Software Engineer, Microsoft</h3>
+                <p>July 2017-May 2018</p>
+
+                <!-- Details -->
+                <ul>
+                    <li>Developed and maintained web applications using HTML, CSS & Javascript</li>
+                    <li>Collaborated with cross functional teams to design and implement software solutions</li>
+                    <li>Optimized code performance and improved applicatoin efficiency</li>
+                </ul>
+
+            </section>
+            
+            <!-- Second Work Experience -->
+            <section>
+
+                <!-- Intro -->
+                <h3>Software Developement Engineer, Amazon</h3>
+                <p>August 2018-April 2020</p>
+
+                <!-- Details -->
+                <ul>
+                    <li>Assited in developing and testing software modules</li>
+                    <li>Worked on bug fixing and maintainability of codebase</li>
+                </ul>
+
+            </section>
+        
+        </section>
+
+
+        <!-- Skills -->
+        <section>
+            <h2>Skills</h2>
+
+            <ul>
+                <li>Java</li>
+                <li>C++</li>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>NodeJS</li>
+                <li>Javascript</li>
+            </ul>
+        </section>
+
+        <!-- Achievements -->
+        <section>
+
+            <h2>Achievements</h2>
+
+            <ul>
+                <li>Service Selection Board(Indian Army)</li>
+                <li>Stipendium Hungaricum Scholarship</li>
+            </ul>
+        </section>
+
+
+        <!-- Projects -->
+        <section>
+
+            <!-- Heading -->
+            <h2>Projects</h2>
+
+            <!-- List  -->
+            <ul>
+            <!-- First Project -->
+                <li>
+
+                    <h3>Library Management System</h3>
+                    <p>Library management applicatoin-developed by using HTML, CSS, React JS, Node JS</p>
+                    <p>Hosted Link: <a href="www.hostinger.com">www.hostinger.com/LibraryManagementBabbar</a> </p> 
+                    <p >GitHub Link: <a href="www.github.com">www.github.com/LibraryManagementBabbar</a></p> 
+                    
+
+                </li>
+            
+            <!-- Second Project -->
+                <li>
+                    <h3>Friednly Chat AppFriednly</h3>
+                    <p>Friendly Chat- An android application made using Firebase, provides secure way to connect with like minded people</p>
+                    <p>Hosted Link: <a href="www.hostinger.com">www.hostinger.com/LibraryManagementBabbar</a></p>
+                    <p>GitHub Link: <a href="www.github.com">www.github.com/LibraryManagementBabbar</a> </p>
+                </li>
+            
+            <!-- Third Project -->
+                <li>
+
+                    <h3>Secure Massenger App AppSecure</h3>
+                    <p>Secure Messenger App- an android app which aims to provide end to end encrypted messeges of the users</p>
+                    <p>Hosted Link: <a href="www.hostinger.com">www.hostinger.com/LibraryManagementBabbar</a></p> 
+                    <p>GitHub Link: <a href="www.github.com">www.github.com/LibraryManagementBabba</a> </p>
+
+                </li>
+            
+            </ul>
+
+        </section>
+
+
+    </main>
+    
+    <!-- Footer -->
+    <footer>
+        <p>&#169 All right are reserved by Love Babbar</p>
+    </footer>
+
+
+
+</body>
+</html>
