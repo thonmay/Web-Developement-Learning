@@ -164,6 +164,32 @@
 
         </section>
 
+        <!-- Frequently Asked Questiongs Section -->
+
+        <section>
+            <!-- Heading -->
+            <h2>Frequently Asked Questtions?</h2>
+
+            <!-- Questions and Answers -->
+            <details>
+                <summary>What is your name?</summary>
+                <p>My name is John Wick!</p>
+            </details>
+            <details>
+                <summary>How old are you?</summary>
+                <p>21 years old in 2024</p>
+            </details>
+            <details>
+                <summary>What is your favorite country?</summary>
+                <p>Switzerland is my dream country, but I like France as well.</p>
+            </details>
+            <details>
+                <summary>Where are you actually from?</summary>
+                <p>I'm actually from a small city called Kishoreganj, which is located in Dhaka, Bangladesh!</p>
+            </details>
+
+        </section>
+
 
     </main>
     
